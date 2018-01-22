@@ -1,0 +1,9 @@
+c:\users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\bin\Debug\Test.Console.exe.config
+c:\users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\bin\Debug\Test.Console.exe
+c:\users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\bin\Debug\Test.Console.pdb
+c:\users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+c:\users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+c:\users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\obj\Debug\Test.Console.exe
+c:\users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\obj\Debug\Test.Console.pdb
+C:\Users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\bin\Debug\LeetCodeProblem.dll
+C:\Users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\bin\Debug\LeetCodeProblem.pdb
