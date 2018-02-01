@@ -4,3 +4,9 @@ C:\Users\l00268\documents\visual studio 2017\Projects\Test.Console\LeetCodeProbl
 C:\Users\l00268\documents\visual studio 2017\Projects\Test.Console\LeetCodeProblem\obj\Debug\LeetCodeProblem.csproj.CoreCompileInputs.cache
 C:\Users\l00268\documents\visual studio 2017\Projects\Test.Console\LeetCodeProblem\obj\Debug\LeetCodeProblem.dll
 C:\Users\l00268\documents\visual studio 2017\Projects\Test.Console\LeetCodeProblem\obj\Debug\LeetCodeProblem.pdb
+D:\LeiLing\5-Project\0-GitHub\LeetCode\LeetCodeProblem\bin\Debug\LeetCodeProblem.dll
+D:\LeiLing\5-Project\0-GitHub\LeetCode\LeetCodeProblem\bin\Debug\LeetCodeProblem.pdb
+D:\LeiLing\5-Project\0-GitHub\LeetCode\LeetCodeProblem\obj\Debug\LeetCodeProblem.csprojResolveAssemblyReference.cache
+D:\LeiLing\5-Project\0-GitHub\LeetCode\LeetCodeProblem\obj\Debug\LeetCodeProblem.csproj.CoreCompileInputs.cache
+D:\LeiLing\5-Project\0-GitHub\LeetCode\LeetCodeProblem\obj\Debug\LeetCodeProblem.dll
+D:\LeiLing\5-Project\0-GitHub\LeetCode\LeetCodeProblem\obj\Debug\LeetCodeProblem.pdb

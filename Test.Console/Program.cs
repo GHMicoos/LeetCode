@@ -15,8 +15,7 @@ namespace TestConsole
             Solution s = new Solution();
             Stopwatch sw = new Stopwatch();
             sw.Start();
-            
-            s.MaxProfit(ar);
+            s.FindAnagrams("cbaebabacd","abc");
             sw.Stop();
             Console.WriteLine(sw.ElapsedMilliseconds);
             Console.ReadKey();

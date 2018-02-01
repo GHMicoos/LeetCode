@@ -7,3 +7,12 @@ c:\users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\
 c:\users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\obj\Debug\Test.Console.pdb
 C:\Users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\bin\Debug\LeetCodeProblem.dll
 C:\Users\l00268\documents\visual studio 2017\Projects\Test.Console\Test.Console\bin\Debug\LeetCodeProblem.pdb
+D:\LeiLing\5-Project\0-GitHub\LeetCode\Test.Console\bin\Debug\Test.Console.exe.config
+D:\LeiLing\5-Project\0-GitHub\LeetCode\Test.Console\bin\Debug\Test.Console.exe
+D:\LeiLing\5-Project\0-GitHub\LeetCode\Test.Console\bin\Debug\Test.Console.pdb
+D:\LeiLing\5-Project\0-GitHub\LeetCode\Test.Console\bin\Debug\LeetCodeProblem.dll
+D:\LeiLing\5-Project\0-GitHub\LeetCode\Test.Console\bin\Debug\LeetCodeProblem.pdb
+D:\LeiLing\5-Project\0-GitHub\LeetCode\Test.Console\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\LeiLing\5-Project\0-GitHub\LeetCode\Test.Console\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+D:\LeiLing\5-Project\0-GitHub\LeetCode\Test.Console\obj\Debug\Test.Console.exe
+D:\LeiLing\5-Project\0-GitHub\LeetCode\Test.Console\obj\Debug\Test.Console.pdb

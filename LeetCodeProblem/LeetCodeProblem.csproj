@@ -41,19 +41,32 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Simple\104MaximumDepthofBinaryTree.cs" />
-    <Compile Include="Simple\121BestTimetoBuyandSellStock.cs" />
-    <Compile Include="Simple\136SingleNumber.cs" />
-    <Compile Include="Simple\169MajorityElement.cs" />
-    <Compile Include="Simple\206ReverseLinkedList.cs" />
-    <Compile Include="Simple\226InvertBinaryTree.cs" />
-    <Compile Include="Simple\283MoveZeroes.cs" />
-    <Compile Include="Simple\448FindAllNumbersDisappearedinanArray.cs" />
-    <Compile Include="Simple\538ConvertBSTtoGreaterTree.cs" />
+    <Compile Include="Simple\0053_MaximumSubarray.cs" />
+    <Compile Include="Simple\0104_MaximumDepthofBinaryTree.cs" />
+    <Compile Include="Simple\0121_BestTimetoBuyandSellStock.cs" />
+    <Compile Include="Simple\0136_SingleNumber.cs" />
+    <Compile Include="Simple\0141_LinkedListCycle.cs" />
+    <Compile Include="Simple\0155_MinStack.cs" />
+    <Compile Include="Simple\0160_IntersectionofTwoLinkedLists.cs" />
+    <Compile Include="Simple\0169_MajorityElement.cs" />
+    <Compile Include="Simple\0171_ExcelSheetColumnNumber.cs" />
+    <Compile Include="Simple\0198_HouseRobber.cs" />
+    <Compile Include="Simple\0206_ReverseLinkedList.cs" />
+    <Compile Include="Simple\0020_ValidParentheses.cs" />
+    <Compile Include="Simple\0021_MergeTwoSortedLists.cs" />
+    <Compile Include="Simple\0226_InvertBinaryTree.cs" />
+    <Compile Include="Simple\0283_MoveZeroes.cs" />
+    <Compile Include="Simple\0344_ReverseString.cs" />
+    <Compile Include="Simple\0371_SumofTwoIntegers.cs" />
+    <Compile Include="Simple\0412_FizzBuzz.cs" />
+    <Compile Include="Simple\0438_FindAllAnagramsinaString.cs" />
+    <Compile Include="Simple\0448_FindAllNumbersDisappearedinanArray.cs" />
+    <Compile Include="Simple\0538_ConvertBSTtoGreaterTree.cs" />
+    <Compile Include="Simple\X088_MergeSortedArray.cs" />
     <Compile Include="Simple\ListNode.cs" />
     <Compile Include="Simple\X543DiameterofBinaryTree.cs" />
-    <Compile Include="Simple\617MergeTwoBinaryTrees.cs" />
-    <Compile Include="Simple\461HammingDistance.cs" />
+    <Compile Include="Simple\0617_MergeTwoBinaryTrees.cs" />
+    <Compile Include="Simple\0461_HammingDistance.cs" />
     <Compile Include="Simple\TreeNode.cs" />
   </ItemGroup>
   <ItemGroup />
